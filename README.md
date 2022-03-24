@@ -1,7 +1,7 @@
-# GPU-enabled Finite Element Analysis Solver Using Matrix-Free Conjugate Gradient Method
+# GPU-enabled Finite Matrix-Free Conjugate Gradient Method
 
-## Thermal Conduction Problem in 3D Box (Hexahedral Structured Grid)
-= It achieves maximum speed up of ~112 x times and scales up to 550 x 550 x 550 hexahedral elements using double precision arithmetic
+## Performance
+- It achieves maximum speed up of ~112 x times and scales up to 550 x 550 x 550 hexahedral elements using double precision arithmetic
 - A summary presentation is given at `petros_matrix-free.pptx.pdf`.
 
 ## Boosting performance using CUBLAS linear algebra kernels (ddot,daxpy,dnrm2).
