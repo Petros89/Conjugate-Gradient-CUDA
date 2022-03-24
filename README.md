@@ -1,4 +1,4 @@
-# GPU-enabled Finite Matrix-Free Conjugate Gradient Method
+# GPU-enabled Matrix-Free Conjugate Gradient Method
 
 ## Performance
 - It achieves maximum speed up of ~112 x times and scales up to 550 x 550 x 550 hexahedral elements using double precision arithmetic
