@@ -2,7 +2,7 @@
 
 ## Thermal Conduction Problem in 3D Box (Hexahedral Structured Grid)
 
-## It achieves maximum speed up of ~82 x times and scales up to 550 x 550 x 550 hexahedral elements using double precision arithmetic
+## It achieves maximum speed up of ~112 x times and scales up to 550 x 550 x 550 hexahedral elements using double precision arithmetic
 
 ## CUBLAS linear algebra optimization is included (ddot,daxpy,dnrm2)
 
@@ -14,6 +14,6 @@
 
 ## Executing command: ./GPU_CG
 
-## Contact: pea11@pitt.edu, trs.apostolou@gmail.com
+## Contact: apost035@umn.edu, trs.apostolou@gmail.com
 
 
